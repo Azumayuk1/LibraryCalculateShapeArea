@@ -19,15 +19,15 @@ public class Tests
     [Test]
     public void CheckCalculatingTriangleArea()
     {
-        Assert.AreEqual(
+        Assert.That(
             LibraryCalculateShapeArea.CalculateShapeArea.CalculateTriangleArea(3, 4, 5, 1),
-            6.0
-        );
+            Is.EqualTo(6.0)
+            );
     }
 
     [Test]
-    public void checkIfTriangleIsRight()
+    public void CheckIfTriangleIsRight()
     {
-        Assert.AreEqual(LibraryCalculateShapeArea.CalculateShapeArea.CheckIfTriangleIsRight(3, 4, 5), true);
+        Assert.AreEqual(LibraryCalculateShapeArea.CheckShapeAttributes.CheckIfTriangleIsRight(3, 4, 5), true);
     }
 }

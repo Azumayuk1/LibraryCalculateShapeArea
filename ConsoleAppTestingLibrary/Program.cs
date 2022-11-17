@@ -55,7 +55,7 @@ switch (choice)
             double bRightCheck = double.Parse(Console.ReadLine() ?? throw new InvalidOperationException());
             double cRightCheck = double.Parse(Console.ReadLine() ?? throw new InvalidOperationException());
             Console.WriteLine("Triangle is right?: ");
-            Console.WriteLine(CalculateShapeArea.CheckIfTriangleIsRight(aRightCheck, bRightCheck, cRightCheck));
+            Console.WriteLine(CheckShapeAttributes.CheckIfTriangleIsRight(aRightCheck, bRightCheck, cRightCheck));
         }
         catch (Exception e)
         {

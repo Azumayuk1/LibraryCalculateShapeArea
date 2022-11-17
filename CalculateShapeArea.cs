@@ -23,7 +23,10 @@ public static class CalculateShapeArea
         // Return area with the set precision
         return Math.Round(area, precision, MidpointRounding.ToZero);
     }
+}
 
+public static class CheckShapeAttributes
+{
     public static bool CheckIfTriangleIsRight(double a, double b, double c)
     {
         if ((a < 0) || (b < 0) || (c < 0))
