@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryCalculateShapeArea", "LibraryCalculateShapeArea.csproj", "{CABCD2CD-3B4E-4A5E-AAB2-5C599392970B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsShapeAreaLibrary", "TestsShapeAreaLibrary\TestsShapeAreaLibrary.csproj", "{F7325C6E-BE7D-45CE-9CBA-3E721CCDFA46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTestingLibrary", "ConsoleAppTestingLibrary\ConsoleAppTestingLibrary.csproj", "{3131CD94-9275-423F-B6EA-C18D8E047D98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CABCD2CD-3B4E-4A5E-AAB2-5C599392970B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABCD2CD-3B4E-4A5E-AAB2-5C599392970B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABCD2CD-3B4E-4A5E-AAB2-5C599392970B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABCD2CD-3B4E-4A5E-AAB2-5C599392970B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7325C6E-BE7D-45CE-9CBA-3E721CCDFA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7325C6E-BE7D-45CE-9CBA-3E721CCDFA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7325C6E-BE7D-45CE-9CBA-3E721CCDFA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7325C6E-BE7D-45CE-9CBA-3E721CCDFA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3131CD94-9275-423F-B6EA-C18D8E047D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3131CD94-9275-423F-B6EA-C18D8E047D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3131CD94-9275-423F-B6EA-C18D8E047D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3131CD94-9275-423F-B6EA-C18D8E047D98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
