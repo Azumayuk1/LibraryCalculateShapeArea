@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8058ef16_002D2360_002D4bf9_002Dbbd4_002D0d455f981105/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CheckCalculatingCircleArea" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F7325C6E-BE7D-45CE-9CBA-3E721CCDFA46::net6.0::TestsShapeAreaLibrary.Tests.CheckCalculatingCircleArea&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CABCD2CD-3B4E-4A5E-AAB2-5C599392970B::net6.0::TestsShapeAreaLibrary.Tests.checkIfTriangleIsRight&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CABCD2CD-3B4E-4A5E-AAB2-5C599392970B::net6.0::TestsShapeAreaLibrary.Tests.CheckCalculatingCircleArea&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CABCD2CD-3B4E-4A5E-AAB2-5C599392970B::net6.0::TestsShapeAreaLibrary.Tests.CheckCalculatingTriangleArea&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
